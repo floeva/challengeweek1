@@ -1,0 +1,26 @@
+# First Challenge Week 1
+
+## Description
+
+We needed to refractor the code already written to make it accessible and get the code of excess code, 
+we did this in order to practice the skills we have learnt so far
+with the programming languages HTML and CSS, i solved the problem of unlable sections replacing div with semantic HTML 
+in  order to clean up the code and make it easier for anyone who encounters the code next, 
+i learnt how the html affects CSS and the diffrence between class & id and how to refactor. also to autosave that really helped complete the project.
+ 
+
+## Installation
+
+N/A
+
+## Usage
+
+To use as a example of what a project may consist of when code is already provided and requires refractoring, and to make the page accessible to users.
+
+## Credits
+
+N/A
+
+## License
+
+please refer to the LICENSE in the repo
